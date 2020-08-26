@@ -1,6 +1,6 @@
 # Java2020-RockPaperScissors
 
-I denna uppgift ska ni skapa spelet sten sax påse, för två spelare.
+Spelet sten sax påse, för två spelare eller en spelare mot datorn.
 
 ## Krav
 
